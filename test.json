@@ -1,0 +1,25 @@
+{
+    "radiant": true,
+    "rarity": "",
+    "type": "",
+    "activeStage": 0,
+    "stages": [
+        {
+            "stage": 0,
+            "nextStage": 10,
+            "objectives": [
+            "POKEMON_HAS: #!25,any,any,any 1"
+            ],
+            "actions": [
+                "COMPLETE_QUEST"
+            ]
+        }
+    ],
+    "strings": {
+        "name": "Test Quest",
+        "desc-0": "This is Stage 0",
+        "desc-10": "This is Stage 10",
+        "desc-X": "Description Complete",
+        "stage-#-##": "test"
+    }
+}
