@@ -1,1 +1,1 @@
-Official repository for the Quest running on any and all PixelMC servers
+Official repository for the Quests running on any and all PixelMC servers
